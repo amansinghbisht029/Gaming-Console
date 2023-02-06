@@ -1,4 +1,4 @@
-# gamingconsole
+# Gaming Console
 A simple gaming console made with the usage of C language. It contains 5 amazing games with the audio and graphics effects. Game names are as follows:
 (1) ROLLING A DIE
 (2) TIC-TAC-TOE
