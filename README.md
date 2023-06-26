@@ -6,4 +6,4 @@ A simple gaming console made with the usage of C language. It contains 5 amazing
 (4) GUESS THE CORRECT NUMBER
 (5) COLLECT THE JWELS
 ->
-This was my college's first year project.
+This was my college's first year project :)
